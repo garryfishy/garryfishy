@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=garryfishy&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/garryfishy/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
