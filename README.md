@@ -104,14 +104,4 @@ When I'm not staring at an IDE, there's a decent chance I'm:
 
 ---
 
-## 🤝 Let's Connect
-
-I'm always interested in conversations around:
-
-**Software Engineering · Product · AI · iOS · Spatial Computing · Startups**
-
-[LinkedIn](YOUR_LINKEDIN_URL) · [Portfolio](https://ribacpd.com)
-
----
-
 <sub>Currently trying to keep the number of unfinished side projects under control.</sub>
