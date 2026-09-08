@@ -104,14 +104,6 @@ When I'm not staring at an IDE, there's a decent chance I'm:
 
 ---
 
-## 📊 GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=garryfishy&show_icons=true&hide_border=true&theme=github_dark" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garryfishy&layout=compact&hide_border=true&theme=github_dark" height="165" />
-</p>
----
-
 ## 🤝 Let's Connect
 
 I'm always interested in conversations around:
