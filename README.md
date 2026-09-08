@@ -106,10 +106,10 @@ When I'm not staring at an IDE, there's a decent chance I'm:
 
 ## 📊 GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&hide_border=true)
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=garryfishy&show_icons=true&hide_border=true&theme=github_dark" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garryfishy&layout=compact&hide_border=true&theme=github_dark" height="165" />
+</p>
 ---
 
 ## 🤝 Let's Connect
